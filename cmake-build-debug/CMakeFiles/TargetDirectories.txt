@@ -1,0 +1,3 @@
+C:/Users/Niko/CLionProjects/riscaldametno_con_cicli/cmake-build-debug/CMakeFiles/riscaldametno_con_cicli.dir
+C:/Users/Niko/CLionProjects/riscaldametno_con_cicli/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Niko/CLionProjects/riscaldametno_con_cicli/cmake-build-debug/CMakeFiles/rebuild_cache.dir
